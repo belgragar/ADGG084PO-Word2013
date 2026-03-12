@@ -1,0 +1,93 @@
+DÍA 5 – EJERCICIO GUIADO: MACROS Y FORMULARIOS
+
+Objetivo del día:
+Aprender a crear formularios interactivos y comprender los principios
+básicos de automatización mediante macros en documentos del vivero.
+
+Instrucciones:
+1. Observa el formulario base proporcionado.
+2. Añade controles de contenido (cuadros de texto, listas desplegables,
+   casillas de verificación).
+3. Crea una macro sencilla que realice una acción automática.
+4. Prueba el formulario y verifica su funcionamiento.
+5. Responde a las preguntas finales.
+
+───────────────────────────────────────────────
+FORMULARIO BASE
+
+Título del formulario:
+______________________________________________
+
+Datos del cliente:
+• Nombre: ____________________________________
+• Empresa: ___________________________________
+• Teléfono: __________________________________
+• Correo electrónico: _________________________
+
+Datos del pedido:
+PLANTA:
+______________________________________________
+
+VARIEDAD:
+______________________________________________
+
+CANTIDAD:
+______________________________________________
+
+LOTE:
+______________________________________________
+
+PROVEEDOR:
+______________________________________________
+
+CERTIFICACIÓN:
+______________________________________________
+
+Fecha de entrega prevista:
+____ / ____ / ______
+
+Método de entrega:
+[ ] Recogida en vivero  
+[ ] Envío estándar  
+[ ] Envío urgente  
+
+Observaciones:
+__________________________________________________________
+__________________________________________________________
+
+───────────────────────────────────────────────
+MACRO SUGERIDA
+
+Nombre de la macro:
+______________________________________________
+
+Acción que debe realizar:
+• Limpiar todos los campos  
+• Insertar fecha actual  
+• Generar número de pedido  
+• Otra acción:
+  ____________________________________________
+
+Código (espacio para escribir o pegar):
+__________________________________________________________
+__________________________________________________________
+__________________________________________________________
+
+───────────────────────────────────────────────
+Preguntas de reflexión:
+
+1. ¿Qué ventajas aporta un formulario interactivo en el vivero?
+   ________________________________________________________
+
+2. ¿Qué tareas pueden automatizarse mediante macros?
+   ________________________________________________________
+
+3. ¿Qué precauciones deben tomarse al usar macros?
+   ________________________________________________________
+
+4. ¿Qué mejoras aplicarías al formulario creado?
+   ________________________________________________________
+
+Notas:
+__________________________________________________________
+__________________________________________________________
