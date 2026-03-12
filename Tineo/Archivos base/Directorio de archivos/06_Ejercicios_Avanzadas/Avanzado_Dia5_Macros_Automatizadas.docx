@@ -1,0 +1,108 @@
+DÍA 5 – EJERCICIO AVANZADO: MACROS Y AUTOMATIZACIÓN DE TAREAS
+
+Objetivo del día:
+Aprender a crear, grabar y ejecutar macros para automatizar tareas
+repetitivas en documentos: formateo, inserción de tablas, generación
+de textos, numeración automática y más.
+
+Instrucciones:
+1. Observa las tareas propuestas.
+2. Graba una macro para automatizar cada una.
+3. Asigna un botón o combinación de teclas a la macro.
+4. Edita el código VBA si es necesario.
+5. Prueba la macro y verifica que funciona correctamente.
+6. Responde a las preguntas finales.
+
+───────────────────────────────────────────────
+TAREA 1 – Formato automático de título
+
+Acción a automatizar:
+• Aplicar estilo “Título 1”
+• Cambiar color del texto
+• Centrar el párrafo
+• Añadir espacio antes y después
+
+Nombre sugerido de la macro:
+______________________________________________
+
+Botón o tecla asignada:
+______________________________________________
+
+Observaciones:
+__________________________________________________________
+__________________________________________________________
+
+───────────────────────────────────────────────
+TAREA 2 – Inserción de tabla predefinida
+
+Acción a automatizar:
+• Insertar tabla de 4 columnas × 6 filas
+• Aplicar estilo de tabla
+• Activar fila de encabezado
+• Ajustar ancho automático
+
+Nombre sugerido de la macro:
+______________________________________________
+
+Botón o tecla asignada:
+______________________________________________
+
+Observaciones:
+__________________________________________________________
+__________________________________________________________
+
+───────────────────────────────────────────────
+TAREA 3 – Generación de texto estándar
+
+Acción a automatizar:
+• Insertar un párrafo predefinido
+• Aplicar estilo “Normal”
+• Justificar el texto
+
+Texto a insertar:
+__________________________________________________________
+__________________________________________________________
+__________________________________________________________
+
+Nombre sugerido de la macro:
+______________________________________________
+
+Botón o tecla asignada:
+______________________________________________
+
+───────────────────────────────────────────────
+TAREA 4 – Automatización avanzada (opcional)
+
+Acción a automatizar:
+• Crear numeración automática
+• Insertar fecha actual
+• Añadir un pie de página personalizado
+
+Descripción:
+__________________________________________________________
+__________________________________________________________
+
+Nombre sugerido de la macro:
+______________________________________________
+
+Botón o tecla asignada:
+______________________________________________
+
+───────────────────────────────────────────────
+Preguntas de reflexión:
+
+1. ¿Qué ventajas aporta automatizar tareas mediante macros?
+   ________________________________________________________
+
+2. ¿Qué riesgos existen al usar macros en documentos compartidos?
+   ________________________________________________________
+
+3. ¿Qué tareas repetitivas podrías automatizar en tu trabajo diario?
+   ________________________________________________________
+
+4. ¿Qué mejoras aplicarías a las macros creadas?
+   ________________________________________________________
+
+Notas:
+__________________________________________________________
+__________________________________________________________
