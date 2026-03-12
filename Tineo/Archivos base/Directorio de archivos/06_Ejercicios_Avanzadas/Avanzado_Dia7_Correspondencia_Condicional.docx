@@ -1,0 +1,108 @@
+DÍA 7 – EJERCICIO AVANZADO: CORRESPONDENCIA CONDICIONAL Y CAMPOS INTELIGENTES
+
+Objetivo del día:
+Aprender a crear correspondencia avanzada utilizando reglas
+condicionales, campos inteligentes, listas de destinatarios filtradas
+y mensajes personalizados según criterios específicos.
+
+Instrucciones:
+1. Observa la estructura del documento base.
+2. Inserta campos de combinación (nombre, dirección, producto, etc.).
+3. Crea reglas condicionales (SI… ENTONCES…).
+4. Personaliza mensajes según categoría, compra o preferencia.
+5. Inserta bloques opcionales que aparezcan solo si se cumplen condiciones.
+6. Previsualiza los resultados.
+7. Responde a las preguntas finales.
+
+───────────────────────────────────────────────
+DOCUMENTO BASE PARA CORRESPONDENCIA
+
+Encabezado:
+______________________________________________
+______________________________________________
+
+Saludo automático:
+Estimado/a «Nombre»:
+
+───────────────────────────────────────────────
+CUERPO DEL MENSAJE
+
+Párrafo introductorio:
+__________________________________________________________
+__________________________________________________________
+
+Mensaje condicional (ejemplo):
+Si «Categoría» = “Cliente Premium”, insertar:
+__________________________________________________________
+__________________________________________________________
+
+Si «Categoría» = “Cliente Nuevo”, insertar:
+__________________________________________________________
+__________________________________________________________
+
+Si «Categoría» = “Cliente Frecuente”, insertar:
+__________________________________________________________
+__________________________________________________________
+
+───────────────────────────────────────────────
+SECCIÓN DE OFERTA PERSONALIZADA
+
+Producto recomendado:
+«Producto»
+
+Mensaje según tipo de producto:
+Si «Producto» = “Servicio”:
+__________________________________________________________
+__________________________________________________________
+
+Si «Producto» = “Artículo físico”:
+__________________________________________________________
+__________________________________________________________
+
+Si «Producto» = “Suscripción”:
+__________________________________________________________
+__________________________________________________________
+
+Fecha límite de la oferta:
+____ / ____ / ______
+
+───────────────────────────────────────────────
+SECCIÓN DE CONTACTO
+
+Persona de contacto:
+______________________________________________
+
+Correo electrónico:
+______________________________________________
+
+Teléfono:
+______________________________________________
+
+───────────────────────────────────────────────
+CIERRE DEL MENSAJE
+
+Mensaje final:
+__________________________________________________________
+__________________________________________________________
+
+Firma:
+______________________________________________
+
+───────────────────────────────────────────────
+Preguntas de reflexión:
+
+1. ¿Qué ventajas aporta la correspondencia condicional frente a un mensaje estándar?
+   ________________________________________________________
+
+2. ¿Qué tipos de reglas condicionales pueden ser útiles en tu trabajo?
+   ________________________________________________________
+
+3. ¿Cómo mejora la personalización la relación con el destinatario?
+   ________________________________________________________
+
+4. ¿Qué mejoras aplicarías al documento creado?
+   ________________________________________________________
+
+Notas:
+__________________________________________________________
+__________________________________________________________
