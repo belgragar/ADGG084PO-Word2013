@@ -1,0 +1,72 @@
+DÍA 1 – EJERCICIO AVANZADO: TABLAS INTELIGENTES Y AUTOMATIZACIÓN
+
+Objetivo del día:
+Aprender a crear tablas avanzadas con funciones inteligentes: filtros,
+segmentación, fórmulas automáticas, estilos personalizados y vínculos
+entre tablas.
+
+Instrucciones:
+1. Observa la tabla base proporcionada.
+2. Convierte la tabla en una tabla inteligente.
+3. Aplica filtros y segmentaciones.
+4. Añade fórmulas automáticas (sumas, promedios, conteos).
+5. Crea una tabla vinculada o relacionada.
+6. Responde a las preguntas finales.
+
+───────────────────────────────────────────────
+TABLA BASE – REGISTRO DE PRODUCTOS
+
+PRODUCTO      | CATEGORÍA     | PRECIO | STOCK | PROVEEDOR        | LOTE
+--------------|----------------|--------|-------|-------------------|---------
+              |                |        |       |                   |
+              |                |        |       |                   |
+              |                |        |       |                   |
+
+Indicaciones:
+• Convertir en tabla inteligente.  
+• Aplicar estilo personalizado.  
+• Activar fila de totales.  
+• Insertar filtros.  
+• Crear fórmula automática para:  
+  – Total de productos  
+  – Promedio de precios  
+  – Suma de stock  
+
+───────────────────────────────────────────────
+TABLA RELACIONADA – PROVEEDORES
+
+PROVEEDOR        | LOCALIZACIÓN        | CONTACTO
+-----------------|----------------------|-------------------
+                 |                      |
+                 |                      |
+                 |                      |
+
+Indicaciones:
+• Crear vínculo entre ambas tablas mediante el campo “Proveedor”.  
+• Insertar segmentación por categoría o proveedor.  
+
+───────────────────────────────────────────────
+EJERCICIOS ADICIONALES
+
+1. Crear una regla de formato condicional para resaltar precios altos.  
+2. Crear una fórmula que calcule el valor total del stock (precio × unidades).  
+3. Insertar un gráfico dinámico basado en la tabla inteligente.  
+
+───────────────────────────────────────────────
+Preguntas de reflexión:
+
+1. ¿Qué ventajas ofrecen las tablas inteligentes frente a las tablas simples?
+   ________________________________________________________
+
+2. ¿Cómo facilitan los filtros y segmentaciones el análisis de datos?
+   ________________________________________________________
+
+3. ¿Qué utilidad tienen las tablas relacionadas en un documento profesional?
+   ________________________________________________________
+
+4. ¿Qué mejoras aplicarías a la tabla creada?
+   ________________________________________________________
+
+Notas:
+__________________________________________________________
+__________________________________________________________
