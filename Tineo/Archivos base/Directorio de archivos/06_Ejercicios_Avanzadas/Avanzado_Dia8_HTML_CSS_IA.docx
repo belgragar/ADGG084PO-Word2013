@@ -1,0 +1,115 @@
+DÍA 8 – EJERCICIO AVANZADO: HTML, CSS Y APLICACIONES CON IA
+
+Objetivo del día:
+Aprender a crear una estructura básica en HTML y CSS, integrando
+elementos visuales, estilos personalizados y contenido generado o
+asistido por herramientas de inteligencia artificial.
+
+Instrucciones:
+1. Observa la estructura del documento web.
+2. Completa el código HTML con contenido real o simulado.
+3. Añade estilos CSS para mejorar la presentación.
+4. Inserta imágenes o iconos donde se indica.
+5. Añade un bloque de contenido generado con IA (texto o ideas).
+6. Responde a las preguntas finales.
+
+───────────────────────────────────────────────
+ESTRUCTURA HTML BÁSICA
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>__________________________________</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<header>
+    <h1>__________________________________</h1>
+    <h2>__________________________________</h2>
+    <img src="imagen_portada.jpg" alt="Imagen de portada">
+</header>
+
+<section id="presentacion">
+    <h3>Presentación</h3>
+    <p>
+        __________________________________________________________
+        __________________________________________________________
+        __________________________________________________________
+    </p>
+</section>
+
+<section id="caracteristicas">
+    <h3>Características principales</h3>
+    <ul>
+        <li>______________________________________________</li>
+        <li>______________________________________________</li>
+        <li>______________________________________________</li>
+    </ul>
+</section>
+
+<section id="galeria">
+    <h3>Galería</h3>
+    <img src="img1.jpg" alt="Imagen 1">
+    <img src="img2.jpg" alt="Imagen 2">
+    <img src="img3.jpg" alt="Imagen 3">
+</section>
+
+<section id="contenido_ia">
+    <h3>Contenido generado con IA</h3>
+    <p>
+        __________________________________________________________
+        __________________________________________________________
+        __________________________________________________________
+    </p>
+</section>
+
+<footer>
+    <p>Contacto: ____________________________________________</p>
+</footer>
+
+</body>
+</html>
+
+───────────────────────────────────────────────
+ESTILOS CSS BÁSICOS (styles.css)
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: ______________________;
+}
+
+h1, h2, h3 {
+    color: ______________________;
+}
+
+img {
+    width: 200px;
+    margin: 10px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+───────────────────────────────────────────────
+Preguntas de reflexión:
+
+1. ¿Qué ventajas tiene usar HTML y CSS para crear documentos visuales?
+   ________________________________________________________
+
+2. ¿Cómo puede ayudar la IA en la creación de contenido web?
+   ________________________________________________________
+
+3. ¿Qué elementos son esenciales para una página web clara y atractiva?
+   ________________________________________________________
+
+4. ¿Qué mejoras aplicarías al documento creado?
+   ________________________________________________________
+
+Notas:
+__________________________________________________________
+__________________________________________________________
