@@ -1,0 +1,116 @@
+DÍA 8 – EJERCICIO GUIADO: HTML BÁSICO E INTEGRACIÓN CON IA
+
+Objetivo del día:
+Aprender a crear una página web sencilla en HTML para el vivero e
+integrar contenido generado con herramientas de IA (textos, imágenes,
+descripciones, etc.).
+
+Instrucciones:
+1. Observa la estructura base del documento HTML.
+2. Completa cada sección con la información del vivero.
+3. Añade imágenes o textos generados con IA donde se indica.
+4. Revisa la coherencia visual y semántica del código.
+5. Responde a las preguntas finales.
+
+───────────────────────────────────────────────
+Estructura base del archivo HTML:
+
+Título de la página:
+______________________________________________
+
+Código HTML (rellenable):
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>__________________________________</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .titulo {
+            font-size: 28px;
+            font-weight: bold;
+        }
+        .seccion {
+            margin-top: 20px;
+        }
+        .imagen {
+            width: 300px;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="titulo">
+        ____________________________________________
+    </div>
+
+    <div class="seccion">
+        <h2>Sobre el vivero</h2>
+        <p>
+            __________________________________________________________
+            __________________________________________________________
+        </p>
+    </div>
+
+    <div class="seccion">
+        <h2>Catálogo destacado</h2>
+        <ul>
+            <li>Planta: ____________________________</li>
+            <li>Variedad: __________________________</li>
+            <li>Precio: ____________________________</li>
+            <li>Disponibilidad: ____________________</li>
+        </ul>
+        Imagen generada con IA:
+        [Espacio para imagen]
+    </div>
+
+    <div class="seccion">
+        <h2>Contacto</h2>
+        <p>
+            Dirección: ____________________________<br>
+            Teléfono: _____________________________<br>
+            Correo: _______________________________
+        </p>
+    </div>
+
+</body>
+</html>
+
+───────────────────────────────────────────────
+Ejercicio adicional con IA:
+
+1. Genera una descripción automática del vivero:
+__________________________________________________________
+__________________________________________________________
+
+2. Genera una imagen con IA para la portada (describir la imagen):
+__________________________________________________________
+__________________________________________________________
+
+3. Genera un texto promocional breve:
+__________________________________________________________
+__________________________________________________________
+
+───────────────────────────────────────────────
+Preguntas de reflexión:
+
+1. ¿Qué ventajas tiene usar HTML para presentar información del vivero?
+   ________________________________________________________
+
+2. ¿Cómo puede ayudar la IA a mejorar el contenido de la web?
+   ________________________________________________________
+
+3. ¿Qué elementos visuales son más importantes en una página de vivero?
+   ________________________________________________________
+
+4. ¿Qué mejoras aplicarías al diseño del HTML?
+   ________________________________________________________
+
+Notas:
+__________________________________________________________
+__________________________________________________________
